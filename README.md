@@ -31,16 +31,16 @@ The application follows a layered architecture.
 
 User → Mobile App UI → Navigation → Business Logic → Local Data
 
-![System Architecture](./architecture.png)
-
+<p align="center">
+  <img src="./architecture.png" width="50%">
+</p>
 ---
-
 ## Project Structure
 
 The project source code is organized into modular folders.
-
-![Project Structure](./project-structure.png)
-
+<p align="center">
+  <img src="./project-structure.png" width="50%">
+</p>
 ---
 
 ## Application Screenshots
