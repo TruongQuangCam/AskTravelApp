@@ -19,15 +19,20 @@ The application allows users to explore travel tours and make tour bookings.
 - TypeScript
 - React Navigation
 
+## System Architecture
+
+The application follows a layered architecture.
+
+User → Mobile App UI → Navigation → Business Logic → Local Data
+
+![System Architecture](./architecture.png)
+
+
 ## Project Structure
 
-```
-src/
-screens/
-components/
-navigation/
-assets/
-```
+The project source code is organized into modular folders.
+
+![Project Structure](./project-structure.png)
 
 ## Installation
 
