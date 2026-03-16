@@ -39,7 +39,7 @@ User → Mobile App UI → Navigation → Business Logic → Local Data
 
 The project source code is organized into modular folders.
 <p align="center">
-  <img src="./project-structure.png" width="50%" height="50%">
+  <img src="./project-structure.png" width="500">
 </p>
 ---
 
