@@ -55,7 +55,7 @@ The project source code is organized into modular folders.
 ![Booking Screen](./booking-screen.png)
 
 ### Booking Success Screen
-![Booking Success Screen](./success-screen.png)
+![Booking Success Screen](./booking-success.png)
 
 ---
 
