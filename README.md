@@ -4,6 +4,8 @@ This project is a mobile application developed using **React Native with Expo**.
 
 The application allows users to explore travel tours and make tour bookings.
 
+---
+
 ## Main Features
 
 - View list of travel tours
@@ -12,12 +14,16 @@ The application allows users to explore travel tours and make tour bookings.
 - Book a tour
 - Display booking confirmation screen
 
+---
+
 ## Technology Stack
 
 - React Native
 - Expo
 - TypeScript
 - React Navigation
+
+---
 
 ## System Architecture
 
@@ -27,6 +33,7 @@ User → Mobile App UI → Navigation → Business Logic → Local Data
 
 ![System Architecture](./architecture.png)
 
+---
 
 ## Project Structure
 
@@ -34,27 +41,40 @@ The project source code is organized into modular folders.
 
 ![Project Structure](./project-structure.png)
 
+---
+
+## Application Screenshots
+
+### Home Screen
+![Home Screen](./home-screen.png)
+
+### Tour Detail Screen
+![Tour Detail Screen](./tour-detail.png)
+
+### Booking Screen
+![Booking Screen](./booking-screen.png)
+
+### Booking Success Screen
+![Booking Success Screen](./booking-success.png)
+
+---
+
 ## Installation
 
 Clone the repository:
-
-```
 git clone https://github.com/TruongQuangCam/AskTravelApp
-```
 
 Install dependencies:
-
-```
 npm install
-```
 
 Start the project:
-
-```
 npx expo start
-```
+
+
+---
 
 ## Author
 
 Cam Truong Quang  
 Hoa Sen University
+
